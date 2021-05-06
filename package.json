@@ -1,0 +1,28 @@
+{
+  "name": "qollie-practice",
+  "version": "1.0.0",
+  "description": "到天眼通爬感興趣的公司評價，如該公司有新增評價即通知chat機器人傳送訊息",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s7130457/qollie-practice.git"
+  },
+  "keywords": [
+    "chatbot",
+    "qollie",
+    "crawler"
+  ],
+  "author": "jeni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s7130457/qollie-practice/issues"
+  },
+  "homepage": "https://github.com/s7130457/qollie-practice#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.3.1",
+    "node-fetch": "^2.6.1"
+  }
+}
